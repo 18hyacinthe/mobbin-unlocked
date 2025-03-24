@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/iamsahebgiri/mobbin-unlocked">
-    <img alt="example" height="80" src="./images/icon-48.png">
+    <img alt="example" height="80" src="./images/icon-128.png">
   </a>
 </p>
 <h1 align="center">Mobbin Unlocked</h1>
